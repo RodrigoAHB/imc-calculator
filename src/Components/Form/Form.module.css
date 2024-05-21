@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    padding-top: 50px;
+    display: flex;
+    max-width: 500px;
+    justify-content: center;
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 40px;
+}
+
+.btnCalculate{
+    margin-bottom: 24px;
+}
+
+/* label, input {
+    margin-top: 10px;
+} */
